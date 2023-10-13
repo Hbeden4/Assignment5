@@ -1,3 +1,6 @@
+package SaleRecord;
+
+
 import java.util.Date;
 
 public class BinaryTree {
@@ -87,4 +90,6 @@ public class BinaryTree {
     public void setRoot(Node root) {
         this.root = root;
     }
+
+	
 }
